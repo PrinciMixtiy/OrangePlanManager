@@ -1,5 +1,4 @@
 from datetime import datetime, timezone
-from typing import TYPE_CHECKING, List
 from enum import Enum
 
 from pydantic import EmailStr
